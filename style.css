@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(210, 210, 223);
+}
+
+.header_div
+{
+    background-color: rgb(145, 121, 121);
+    color: white;
+    padding-left:500px ;
+    font-family: 'Dancing Script', cursive;
+
+}
+
+.copy_right_footer
+{
+    position:fixed;
+    Bottom:0; 
+    width:100%;
+    background-color: white;
+}
